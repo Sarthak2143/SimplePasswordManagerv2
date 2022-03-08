@@ -1,0 +1,9 @@
+##### Passwords generator logs #####
+Time format:
+DD/MM/YYYY 24HR (UCT)
+
+Log format:
+Time, passwords got generated.
+
+--------------------------------
+
