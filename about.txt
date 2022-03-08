@@ -4,10 +4,6 @@ Name: Simple Password Manager CLI
 Author: Shinero
 Version: v1.0.0
 
-Date of release: 19 Jan 2022
-Date of release of v1: 22 Jan 2022
-Date of release of v1.5: 23 Jan 2022
-Date of release of v1.9: 25 Jan 2022
 
 Featutes:
 
@@ -18,6 +14,6 @@ Featutes:
 5. Password Strength Checker
 
 
-Source Code: https://github.com/Sarthak2143/SimplePasswordManager
+Source Code: https://github.com/Sarthak2143/SimplePasswordManagerv2/
 
 Thanks, for using my password manager!
